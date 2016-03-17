@@ -1,10 +1,3 @@
-//
-//  AppDelegate.m
-//  RestoApp
-//
-//  Created by saikrishna on 19/02/16.
-//  Copyright © 2016 saikrishna. All rights reserved.
-//
 
 #import "AppDelegate.h"
 
